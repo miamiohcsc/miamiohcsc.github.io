@@ -21,10 +21,10 @@
 title: MUCSC
 email: cyberclub@miamioh.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Miami University Cyber Security Club is a club based at Miami University, Oxford, Ohio.
+  Miami University Cyber Security Club is a club based in Miami University, Oxford, Ohio.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+instagram_username: miamicsc
 
 # Build settings
 theme: minima
