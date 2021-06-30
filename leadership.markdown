@@ -18,6 +18,4 @@ Membership coordinator: Tom Deep (deeptg@miamioh.edu)
 
 Social media coordinator:  Jessica (vazqueje@miamioh.edu) 
 
-Event coordinator: 
-
 Adviser: Suman Bhunia (bhunias@miamioh.edu) 
