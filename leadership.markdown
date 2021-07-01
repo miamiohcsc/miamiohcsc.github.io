@@ -4,18 +4,18 @@ title: Leadership
 permalink: /leadership/
 ---
 
-President :  Henry Deal (dealhl@miamioh.edu)
+**President** :  Henry Deal (dealhl@miamioh.edu)
 
-Vice President: Andrew DePero (deperoaj@miamioh.edu)
+**Vice President**: Andrew DePero (deperoaj@miamioh.edu)
 
-Secretary : Sara Grimes (grimessi@miamioh.edu) 
+**Secretary**: Sara Grimes (grimessi@miamioh.edu) 
 
-Treasurer: Nam (hoangnd@miamioh.edu) 
+**Treasurer**: Nam (hoangnd@miamioh.edu) 
 
-IT coordinator : Nero (tranhuq@miamioh.edu) 
+**IT Coordinator**: Nero (tranhuq@miamioh.edu) 
 
-Membership coordinator: Tom Deep (deeptg@miamioh.edu) 
+**Membership coordinator**: Tom Deep (deeptg@miamioh.edu) 
 
-Social media coordinator:  Jessica (vazqueje@miamioh.edu) 
+**Social media coordinator**:  Jessica (vazqueje@miamioh.edu) 
 
-Adviser: Suman Bhunia (bhunias@miamioh.edu) 
+**Adviser**: Suman Bhunia (bhunias@miamioh.edu) 
